@@ -1,0 +1,39 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "Krystal & Jose"
+  subtitle    = "Love"
+  copyright   = "© 2018"
+
+  cover       = "img/main-cover.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+
+  author = "Krystal & Jose"
+  authorAvatar = "img/author-avatar.jpg"
+  authorLocation = "Scottsdale, AZ"
+  authorWebsite = "http://krystalandjose.com"
+  authorDescription = "Author"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 100
+
+[[menu.main]]
+  name = "Wedding"
+  url = "/wedding/"
+  weight = 99
