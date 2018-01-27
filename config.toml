@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://jibarra.github.io/krystalandjose-website/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""

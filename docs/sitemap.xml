@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/were-getting-married/</loc>
+    <loc>https://jibarra.github.io/krystalandjose-website/post/were-getting-married/</loc>
     <lastmod>2018-01-27T13:22:36-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/wedding/</loc>
+    <loc>https://jibarra.github.io/krystalandjose-website/wedding/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://jibarra.github.io/krystalandjose-website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-01-27T13:22:36-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>https://jibarra.github.io/krystalandjose-website/</loc>
     <lastmod>2018-01-27T13:22:36-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://jibarra.github.io/krystalandjose-website/post/</loc>
+    <lastmod>2018-01-27T13:22:36-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibarra.github.io/krystalandjose-website/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -3,7 +3,7 @@
 	url = git@github.com:eueung/hugo-casper-two.git
 [submodule "themes/ananke"]
 	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
+	url = git@github.com:budparr/gohugo-theme-ananke.git
 [submodule "hugo-casper-two"]
 	path = hugo-casper-two
 	url = https://github.com/eueung/hugo-casper-two.git
