@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Krystal &amp; Jose</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Krystal &amp; Jose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>© 2018</copyright>
+    <lastBuildDate>Sat, 27 Jan 2018 13:22:36 -0700</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We&#39;re Getting Married!</title>
+      <link>/post/were-getting-married/</link>
+      <pubDate>Sat, 27 Jan 2018 13:22:36 -0700</pubDate>
+      
+      <guid>/post/were-getting-married/</guid>
+      <description>We&amp;rsquo;re getting married on March 26, 2018.</description>
+    </item>
+    
+  </channel>
+</rss>
