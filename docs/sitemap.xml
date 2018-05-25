@@ -14,12 +14,12 @@
   </url>
   
   <url>
-    <loc>https://jibarra.github.io/krystalandjose-website/wedding_photos/</loc>
+    <loc>https://jibarra.github.io/krystalandjose-website/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jibarra.github.io/krystalandjose-website/categories/</loc>
-    <priority>0</priority>
+    <loc>https://jibarra.github.io/krystalandjose-website/wedding_photos/</loc>
   </url>
   
   <url>
