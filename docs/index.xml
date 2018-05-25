@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Krystal &amp; Jose</title>
+    <title></title>
     <link>https://jibarra.github.io/krystalandjose-website/</link>
-    <description>Recent content on Krystal &amp; Jose</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>© 2018</copyright>
     <lastBuildDate>Sat, 27 Jan 2018 13:22:36 -0700</lastBuildDate>
     
 	<atom:link href="https://jibarra.github.io/krystalandjose-website/index.xml" rel="self" type="application/rss+xml" />
@@ -23,12 +22,12 @@
     
     <item>
       <title></title>
-      <link>https://jibarra.github.io/krystalandjose-website/wedding/</link>
+      <link>https://jibarra.github.io/krystalandjose-website/wedding_photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jibarra.github.io/krystalandjose-website/wedding/</guid>
-      <description>Wedding The wedding will be held at a courthouse in Scottsdale, Arizona on March 26, 2018.
-Reception The reception will be held on May 12, 2018. Location to be determined.</description>
+      <guid>https://jibarra.github.io/krystalandjose-website/wedding_photos/</guid>
+      <description>View Wedding, Reception, and Professional Photos To view all of our wedding, reception, and professional photos, click here to view them on Dropbox.
+Upload Wedding or Reception Photos If you have any photos to upload of our wedding or reception, click here to upload them to our Dropbox. We&amp;rsquo;ll keep this link open until July 15, 2018.</description>
     </item>
     
   </channel>
