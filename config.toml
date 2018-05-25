@@ -35,6 +35,6 @@ canonifyurls    = true
   weight = 100
 
 [[menu.main]]
-  name = "Wedding"
-  url = "/wedding/"
+  name = "Wedding Photos"
+  url = "/wedding_photos/"
   weight = 99
