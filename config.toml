@@ -1,15 +1,16 @@
-baseurl         = "https://jibarra.github.io/krystalandjose-website/"
+baseurl         = "//www.krystalandjose.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
+# Added for publishing on Github Pages
 publishDir = "docs"
-#SectionPagesMenu = "main"
-canonifyurls    = true
+# SectionPagesMenu = "main"
+# canonifyurls    = true
 
 [params]
   title       = "Krystal & Jose"
-  subtitle    = "Love"
+  subtitle    = ""
   copyright   = "© 2018"
 
   cover       = "img/main-cover.jpg"
