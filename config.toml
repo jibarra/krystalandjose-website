@@ -7,9 +7,10 @@ paginate        = 6
 publishDir = "docs"
 # SectionPagesMenu = "main"
 # canonifyurls    = true
+title = "Krystal & Jose"
 
 [params]
-  title       = "Krystal & Jose"
+  title = "Krystal & Jose"
   subtitle    = ""
   copyright   = "© 2018"
 
@@ -22,7 +23,7 @@ publishDir = "docs"
   author = "Krystal & Jose"
   authorAvatar = "img/author-avatar.jpg"
   authorLocation = "Denver, CO"
-  authorWebsite = "http://krystalandjose.com"
+  authorWebsite = "https://www.krystalandjose.com"
   authorDescription = "Author"
 
   pageNotFoundTitle = "404 - Page not found"
