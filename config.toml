@@ -21,7 +21,7 @@ publishDir = "docs"
 
   author = "Krystal & Jose"
   authorAvatar = "img/author-avatar.jpg"
-  authorLocation = "Scottsdale, AZ"
+  authorLocation = "Denver, CO"
   authorWebsite = "http://krystalandjose.com"
   authorDescription = "Author"
 
