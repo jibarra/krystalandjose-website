@@ -40,8 +40,3 @@ title = "Krystal & Jose"
   name = "Wedding Photos"
   url = "/wedding-photos/"
   weight = 90
-
-[[menu.main]]
-  name = "Visiting Our Home"
-  url = "/visiting-our-home/"
-  weight = 99
