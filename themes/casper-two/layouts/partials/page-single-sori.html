@@ -4,8 +4,13 @@
     </header>
 
     <section class="post-full-content">
+        {{ if .Params.toc }}
+            <hr style="margin: 1em 0 1em 0">
+            {{ .TableOfContents }}
+            <hr style="margin: 1em 0 1em 0">
+        {{ end }}
         <div class="kg-card-markdown">
-        {{ .Content }}    
+            {{ .Content }}  
         </div>
     </section>
 </article>
