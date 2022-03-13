@@ -38,5 +38,5 @@ title = "Krystal & Jose"
 
 [[menu.main]]
   name = "Wedding Photos"
-  url = "/wedding_photos/"
+  url = "/wedding-photos/"
   weight = 99
