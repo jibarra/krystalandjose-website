@@ -7,6 +7,12 @@ toc: true
 
 Welcome to our home! We've listed some useful information for you while you visit.
 
+## House rules
+
+- Please close doors to the outside quickly. Don't leave them open - we have cats and they could escape.
+- Our cats are friendly but are shy. Please don't chase after them if they run away from you.
+- Avoid going upstairs, that's the safe space for our cats if they get stressed.
+
 ## Wifi
 
 ### 5 GHz
