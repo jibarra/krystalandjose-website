@@ -9,7 +9,7 @@ Welcome to our home! We've listed some useful information for you while you visi
 
 # Wifi
 
-## 5Ghz (preferred)
+## 5 GHz
 
 ![whale_wireless-5G QR code](/static/img/whale_wireless-5G-qrcode.png)
 
@@ -18,7 +18,7 @@ Welcome to our home! We've listed some useful information for you while you visi
 
 (Generated with [Pure JS WiFi QR Code Generator](https://qifi.org/))
 
-## 2.4Ghz
+## 2.4 GHz
 
 ![whale_wireless QR code](/static/img/whale_wireless-qrcode.png)
 
