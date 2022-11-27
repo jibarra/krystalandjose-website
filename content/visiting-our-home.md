@@ -16,12 +16,16 @@ Welcome to our home! We've listed some useful information for you while you visi
 - Network Name: `whale_wireless-5G`
 - Key: `Whalesares000#CUTE`
 
+(Generated with [Pure JS WiFi QR Code Generator](https://qifi.org/))
+
 ## 2.4Ghz
 
 ![whale_wireless QR code](/static/img/whale_wireless-qrcode.png)
 
 - Network Name: `whale_wireless`
 - Key: `Whalesares000#CUTE`
+
+(Generated with [Pure JS WiFi QR Code Generator](https://qifi.org/))
 
 # Basement
 
@@ -39,3 +43,9 @@ We hae an NVIDIA Shield remote (left) and a Samsung TV remote (right). Use the S
 ### Troubleshooting
 
 If the sound isn't working on the TV, try turning off and on _just_ the NVIDIA Shield via the remote. **Keep the TV display on during this process.**
+
+# QR code to this page
+
+![QR code to this page](/static/img/visiting-our-home-qr-code.png)
+
+(Generated with [QR Code Generator](https://www.the-qrcode-generator.com/))
