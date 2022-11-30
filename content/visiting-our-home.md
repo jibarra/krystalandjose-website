@@ -37,14 +37,22 @@ Welcome to our home! We've listed some useful information for you while you visi
 
 ### Television
 
-Feel free to use the television in the basement. Please don't change the settings or inputs on the TV. If you do, please set it back to the original settings.
+Feel free to use the television in the basement. Please note that the Samsung TV remote can be unresponsive so we have an NVIDIA Shield to use for streaming services, listening to music, etc. We also have a SNES Classic system setup that can be used to play some SNES games.
 
-We have Netflix, HBO, our local Plex server, and other services for guests to enjoy. Please use a guest account when using any of these services. We've saved all available services as apps to the Shield home page.
+The NVIDIA Shield is on HDMI input 4 and the SNES Classic is on HDMI input 3. When you're done using the TV, please return the TV to the NVIDIA Shield (HDMI input 4).
+
+Currently, we have HBO, Disney Plus, Hulu, and our local Plex server for guests to enjoy. Please use a guest account when using any of these services. We've saved all available services as apps to the Shield home page.
 
 #### Remotes
 
 ![Basement TV remotes](/static/img/basement-tv-remotes.jpeg)
-We hae an NVIDIA Shield remote (left) and a Samsung TV remote (right). Use the Samsung TV remote to turn on the TV display and use the NVIDIA Shield remote to turn on the Shield, adjust TV volume, and choose what to watch.
+We hae an NVIDIA Shield remote (left) and a Samsung TV remote (right).
+
+The Samsung TV remote can be used to turn on the TV display, change input sources, and adjust TV volume.
+
+Use the NVIDIA Shield remote to turn on the Shield and choose what to watch on the Shield. It can also be used to adjust the TV volume.
+
+We recommend using the NVIDIA Shield remote as much as possible - the Samsung TV remote can be unresponsive at times.
 
 #### Troubleshooting
 
