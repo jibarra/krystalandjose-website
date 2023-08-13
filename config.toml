@@ -40,3 +40,7 @@ title = "Krystal & Jose"
   name = "Wedding Photos"
   url = "/wedding-photos/"
   weight = 90
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
