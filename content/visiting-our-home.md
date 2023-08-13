@@ -28,11 +28,11 @@ We have one band for wifi in the house, listed below.
 
 ### Television
 
-Feel free to use the television in the basement. Please note that the Samsung TV remote can be unresponsive so we have an NVIDIA Shield to use for streaming services, listening to music, etc. We also have a SNES Classic system setup that can be used to play some SNES games.
+Feel free to use the television in the basement. Please note that the Samsung TV remote can be unresponsive so we have an NVIDIA Shield to use for streaming services, listening to music, etc. We also have a SNES Classic system setup that can be used to play some SNES games. A Steam Link is also setup but that requires a connection to a computer running Steam.
 
-The NVIDIA Shield is on HDMI input 4 and the SNES Classic is on HDMI input 3. When you're done using the TV, please return the TV to the NVIDIA Shield (HDMI input 4).
+Each device is labeled on the source list on the TV. When you're done using the TV, please return the TV to the NVIDIA Shield source.
 
-Currently, we have HBO, Disney Plus, Hulu, and our local Plex server for guests to enjoy. Please use a guest account when using any of these services. We've saved all available services as apps to the Shield home page.
+Currently, we have HBO, Netflix, and our local Plex server for guests to enjoy. Please use a guest account when using any of these services.
 
 #### Remotes
 
@@ -47,7 +47,17 @@ We recommend using the NVIDIA Shield remote as much as possible - the Samsung TV
 
 #### Troubleshooting
 
+##### Sound
+
 If the sound isn't working on the TV, try turning off and on _just_ the NVIDIA Shield via the remote. **Keep the TV display on during this process.**
+
+##### Unresponsive remote
+
+The remote can sometimes be unresponsive.
+
+Make sure you point the remote to the IR receiver for the TV (bottom right of the TV). We've found pressing the buttons firmly can help register them better.
+
+Also, the pointer feature of the remote responds much better than pressing the arrow buttons - to use it, place your finger on the pointer button and use motion controls to point to selections on the screen.
 
 ## QR code to this page
 
