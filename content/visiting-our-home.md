@@ -37,7 +37,7 @@ Currently, we have HBO, Netflix, and our local Plex server for guests to enjoy. 
 #### Remotes
 
 ![Basement TV remotes](/static/img/basement-tv-remotes.jpeg)
-We hae an NVIDIA Shield remote (left) and a Samsung TV remote (right).
+We have an NVIDIA Shield remote (left) and a Samsung TV remote (right).
 
 The Samsung TV remote can be used to turn on the TV display, change input sources, and adjust TV volume.
 
