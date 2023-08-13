@@ -15,16 +15,7 @@ Welcome to our home! We've listed some useful information for you while you visi
 
 ## Wifi
 
-### 5 GHz
-
-![whale_wireless-5G QR code](/static/img/whale_wireless-5G-qrcode.png)
-
-- Network Name: `whale_wireless-5G`
-- Key: `Whalesares000#CUTE`
-
-(Generated with [Pure JS WiFi QR Code Generator](https://qifi.org/))
-
-### 2.4 GHz
+We have one band for wifi in the house, listed below.
 
 ![whale_wireless QR code](/static/img/whale_wireless-qrcode.png)
 
